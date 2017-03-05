@@ -40,12 +40,12 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
-#quote1{
+div.quote1{
   color:white;
   padding-top:60px;
   text-align:center;
 }
-#skil1{
+div.skil1{
   text-align:center;
   text-decoration:underline;
   color:white;
