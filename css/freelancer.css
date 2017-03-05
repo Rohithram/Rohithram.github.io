@@ -24,19 +24,19 @@ a.active {
 strong{
             padding-right:500px;
         }
-        #quote{
-            color:white;
-            font-size:20px;
-            text-align:center;
-            padding-top:500px;
-            }
-        #rig{
-            color:white;
-            font-size:20px;
-            text-align:right;
-            text-decoration:underline;
-            padding-left:200px;
-            padding-right:200px;
+#quote{
+  color:white;
+  font-size:20px;
+  text-align:center;
+  padding-top:500px;
+       }
+ #rig{
+      color:white;
+      font-size:20px;
+      text-align:right;
+      text-decoration:underline;
+      padding-left:200px;
+      padding-right:200px;
         }
 h1,
 h2,
