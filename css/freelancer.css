@@ -40,6 +40,11 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
+#skil{
+  text-align:center;
+  text-decoration:underline;
+  color:black;
+}
 hr.star-light:after,
 hr.star-primary:after {
   content: "\f005";
