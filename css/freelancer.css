@@ -65,7 +65,7 @@ hr.star-primary:after {
   color: #2C3E50;
 }
 .img-centered {
-  margin: 0 auto;
+  margin:25px 25px 25px 25px;
 }
 header {
   text-align: center;
